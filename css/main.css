@@ -54,3 +54,13 @@ p {
 span {
   background-color: rgba(0, 0, 0, .5);
 }
+
+.banner-title {
+  color: white;
+  font-weight: bolder;
+  font-size: 4rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding: 0;
+  line-height: 1.4;
+}
