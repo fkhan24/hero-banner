@@ -18,20 +18,12 @@ body {
   width: 100%;
 }
 
-h2 {
-  color: white;
-  font-size: 4rem;
-  padding-top: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 p {
   color: black;
   font-size: 2rem;
   font-style: italic;
   margin: 0;
-  margin-top: .45em;
+  margin-top: .45rem;
 }
 
 .banner {
